@@ -1,10 +1,4 @@
-# jkn
-
-## 0.9.3
-
-### Patch Changes
-
-- f480331: Rename NPM package
+# @ssecd/jkn
 
 ## 0.9.2
 
